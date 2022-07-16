@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CipherSchoolsProject/static/css/main.7496f5c0.css",
+    "main.js": "/CipherSchoolsProject/static/js/main.54d7f226.js",
+    "static/media/milk.png": "/CipherSchoolsProject/static/media/milk.85f8acdfe57874bd5225.png",
+    "static/media/hand2.png": "/CipherSchoolsProject/static/media/hand2.216eea8df9667f4eb96f.png",
+    "index.html": "/CipherSchoolsProject/index.html",
+    "main.7496f5c0.css.map": "/CipherSchoolsProject/static/css/main.7496f5c0.css.map",
+    "main.54d7f226.js.map": "/CipherSchoolsProject/static/js/main.54d7f226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7496f5c0.css",
+    "static/js/main.54d7f226.js"
+  ]
+}
